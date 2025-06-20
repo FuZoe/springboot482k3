@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Codes__\\springboot482k3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Codes__\\springboot482k3\\target\\classes\\mapper\\AddressDao.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:target\\classes\\mapper\\AddressDao.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Codes__\\springboot482k3\\src\\main\\resources\\application.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\resources\\application.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Codes__\\springboot482k3\\src\\main\\java\\com\\entity\\AddressEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\entity\\AddressEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Codes__\\springboot482k3\\target\\classes\\admin\\admin\\src\\views\\modules\\address\\list.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:target\\classes\\admin\\admin\\src\\views\\modules\\address\\list.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Codes__\\springboot482k3\\target\\classes\\admin\\admin\\src\\views\\modules\\address\\add-or-update.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:target\\classes\\admin\\admin\\src\\views\\modules\\address\\add-or-update.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressDao.xml",
+              "DocumentMoniker": "F:\\Codes__\\springboot482k3\\target\\classes\\mapper\\AddressDao.xml",
+              "RelativeDocumentMoniker": "target\\classes\\mapper\\AddressDao.xml",
+              "ToolTip": "F:\\Codes__\\springboot482k3\\target\\classes\\mapper\\AddressDao.xml",
+              "RelativeToolTip": "target\\classes\\mapper\\AddressDao.xml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-04T06:04:24.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "application.yml",
+              "DocumentMoniker": "F:\\Codes__\\springboot482k3\\src\\main\\resources\\application.yml",
+              "RelativeDocumentMoniker": "src\\main\\resources\\application.yml",
+              "ToolTip": "F:\\Codes__\\springboot482k3\\src\\main\\resources\\application.yml",
+              "RelativeToolTip": "src\\main\\resources\\application.yml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-04T05:48:51.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddressEntity.java",
+              "DocumentMoniker": "F:\\Codes__\\springboot482k3\\src\\main\\java\\com\\entity\\AddressEntity.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\entity\\AddressEntity.java",
+              "ToolTip": "F:\\Codes__\\springboot482k3\\src\\main\\java\\com\\entity\\AddressEntity.java",
+              "RelativeToolTip": "src\\main\\java\\com\\entity\\AddressEntity.java",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOBSURBVDhPrZRLiBxFGMf/Vf3e6d7e2dHdHCIkSnyghEAQn6Ci0fgIKHgQD5IgGzwoi\u002B\u002BTIh5EDwFfB58HPYggXoTgQfckBBGfAUNisssYssNOMvuYmd7tR3VX\u002BVWNm90xggj5muqu\u002Bvr7fv09qgsXVZRSTD\u002Bzp6efLRpbH8ja31vpQqNIOrHoZbE4a/miFYayE4R8ya5ZHT/iy35gLbshX3Ej3gsCL/dcL/ddrz7ufNqc8t\u002B0NZCNHn/SvzzcVntwL\u002BQvn6M6chmKYwyXLjnwEwU2xpFFFhyylhSD4Aq5U4D5BYKaRLxzK/iKHCHUAJgvjVSB8x26jyf4s7sdMgP6yNCx\u002B2j7EnOrDE3F0UptLK5w9CwJwdYgoTC6bTvse2yU86zULAMU86OF\u002BzPDyT9W8Fb/nFYZESjNKOiuh0NjXAlERqffCQTTnyBJdsNalbn24fqWtcNC/D4GUTh6iX3PP4ypj6dx24E952F7DtyHG/fdSrMNmFD0rBSwRv1IrQ1g2hkpspMRRD4Azv52Crc/djeOHvn1PPDaW3biil07hmF05QTkqQQr6BWJAS6UY8WZpIGFKCaTEqdPNLUacydmB0BKU9erovtmmIbnUsFNqXYFE9rHAJtRXRwNJjEbN8hsYKxFw6yaAyd04fgO\u002Bkl/CGZsS4qwYGCiMk0xwFZUx9wlkzg2vsVA9r/xhFbj4OtP4a5H9\u002BJwcwY33HkzZg5/MwQrCV5QyhYBZUULEtPl\u002BbiORTZKW8ZGQKYvPfKCSXO9AV9\u002B9gWSdA1ZmQ7BSipCVdE\u002Bpuqpkm\u002BkfHq8zk9NTKDthibCzTA96/Z7/wrTgyIjIKWtl\u002BvAFgFnt0ygb3kXwP5Zs80wPQsJ6NLOcSQp1oHdKGRroYeSQv8/sEpJhNQUu2JwrAHQ1BA249zTE2Wcnzv0Iq7adQ2tlNku\u002Brr/jnsvgGkxEdKQFSVNYoDS5dzxBs46olefeeU/I1uXSHeZUI7epiTm\u002BLry0OIP3bHwevltB43eT/TjM\u002BSMI\u002BecThYLwmYoLQZlUQ6MCva3aOebvOsQ7wix2rI/mnk7mDLAq99d/rH02e6CjiUt5KqzH5pTLw3BqOmDjqgwmRaYpOPNRg1J2/nw63dqBwfA1869nJzFQ5KiqjSCMfqhmElBk6iGnCDalhs4o6w5lzXqYlwpFpeMN2Tw3lfv1z4wPhdPgL8AQmcpADssimkAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-04T05:48:11.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "list.vue",
+              "DocumentMoniker": "F:\\Codes__\\springboot482k3\\target\\classes\\admin\\admin\\src\\views\\modules\\address\\list.vue",
+              "RelativeDocumentMoniker": "target\\classes\\admin\\admin\\src\\views\\modules\\address\\list.vue",
+              "ToolTip": "F:\\Codes__\\springboot482k3\\target\\classes\\admin\\admin\\src\\views\\modules\\address\\list.vue",
+              "RelativeToolTip": "target\\classes\\admin\\admin\\src\\views\\modules\\address\\list.vue",
+              "ViewState": "AgIAAEQAAAAAAAAAAAD4v0sAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-05-04T05:47:40.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "add-or-update.vue",
+              "DocumentMoniker": "F:\\Codes__\\springboot482k3\\target\\classes\\admin\\admin\\src\\views\\modules\\address\\add-or-update.vue",
+              "RelativeDocumentMoniker": "target\\classes\\admin\\admin\\src\\views\\modules\\address\\add-or-update.vue",
+              "ToolTip": "F:\\Codes__\\springboot482k3\\target\\classes\\admin\\admin\\src\\views\\modules\\address\\add-or-update.vue",
+              "RelativeToolTip": "target\\classes\\admin\\admin\\src\\views\\modules\\address\\add-or-update.vue",
+              "ViewState": "AgIAAAoAAAAAAAAAAAD4vxEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-05-04T05:47:37.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
