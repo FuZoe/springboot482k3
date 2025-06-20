@@ -1,9 +1,9 @@
-###效果预览：
+### 效果预览：
 ![image](https://github.com/user-attachments/assets/5a167a27-7421-4778-8b8a-2704d7bbb60f)
 ![image](https://github.com/user-attachments/assets/50fa9884-b357-4d6f-9c1d-69daf8e16aac)
 ![image](https://github.com/user-attachments/assets/d1af3421-ef3b-47f2-8fc6-8b17459925a0)
 
-###使用说明：
+### 使用说明：
 
 首先，执行根目录下的db.sql文件，在本地数据库创建springboot482k3表。连接数据库。
 
