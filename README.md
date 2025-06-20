@@ -22,6 +22,7 @@ http://localhost:8080/springboot482k3/admin/dist/index.html
 http://localhost:8080/springboot482k3/front/index.html
 
 默认用户如下：
+
 管理员  abo 密码 abo
 
 用户1 123456
