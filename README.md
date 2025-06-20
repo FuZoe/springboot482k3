@@ -6,7 +6,7 @@
 使用说明：
 首先，执行db.sql文件，在本地数据库创建springboot482k3表。连接数据库。
 
-接下来，用IDEA打开项目文件夹。
+接下来，打开项目文件夹。
 在src\main\resources\application.yml中编辑
 											
 	 url: jdbc:mysql://127.0.0.1:3306/springboot482k3?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
