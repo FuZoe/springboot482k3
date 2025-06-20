@@ -18,7 +18,7 @@
         <result property="discounttotal" column="discounttotal"/>
         <result property="type" column="type"/>
         <result property="status" column="status"/>
-        <result property="gyq_address" column="gyq_address"/>
+        <result property="address" column="address"/>
     </resultMap>
 
 	<select id="selectListVO"

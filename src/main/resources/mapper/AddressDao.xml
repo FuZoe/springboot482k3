@@ -6,7 +6,7 @@
 	<!-- 可根据自己的需求，是否要使用 -->
     <resultMap type="com.entity.AddressEntity" id="addressMap">
         <result property="userid" column="userid"/>
-        <result property="gyq_address" column="gyq_address"/>
+        <result property="address" column="address"/>
         <result property="name" column="name"/>
         <result property="phone" column="phone"/>
         <result property="isdefault" column="isdefault"/>

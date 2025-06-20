@@ -17,7 +17,7 @@ import java.io.Serializable;
  * @email 
  * @date 2021-03-20 16:03:02
  */
-@TableName("gyq_address")
+@TableName("address")
 public class AddressView  extends AddressEntity implements Serializable {
 	private static final long serialVersionUID = 1L;
 

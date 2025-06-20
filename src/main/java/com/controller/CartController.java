@@ -82,7 +82,7 @@ public class CartController {
     @RequestMapping("/lists")
     public R list( CartEntity cart){
        	EntityWrapper<CartEntity> ew = new EntityWrapper<CartEntity>();
-      	ew.allEq(MPUtil.allEQMapPre( cart, "gyq_cart")); 
+      	ew.allEq(MPUtil.allEQMapPre( cart, "cart")); 
         return R.ok().put("data", cartService.selectListView(ew));
     }
 
@@ -92,7 +92,7 @@ public class CartController {
     @RequestMapping("/query")
     public R query(CartEntity cart){
         EntityWrapper< CartEntity> ew = new EntityWrapper< CartEntity>();
- 		ew.allEq(MPUtil.allEQMapPre( cart, "gyq_cart")); 
+ 		ew.allEq(MPUtil.allEQMapPre( cart, "cart")); 
 		CartView cartView =  cartService.selectView(ew);
 		return R.ok("查询购物车表成功").put("data", cartView);
     }

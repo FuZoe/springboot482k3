@@ -10,12 +10,12 @@
     >
       <el-row>
                                                       <el-col :span="12">
-        <el-form-item class="input" v-if="type!='info'"  label="地址" prop="gyq_address">
+        <el-form-item class="input" v-if="type!='info'"  label="地址" prop="address">
           <el-input v-model="ruleForm.address" 
               placeholder="地址" clearable  :readonly="ro.address"></el-input>
         </el-form-item>
         <div v-else>
-          <el-form-item class="input" label="地址" prop="gyq_address">
+          <el-form-item class="input" label="地址" prop="address">
               <el-input v-model="ruleForm.address" 
                 placeholder="地址" readonly></el-input>
           </el-form-item>

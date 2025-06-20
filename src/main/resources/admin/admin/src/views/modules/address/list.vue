@@ -73,7 +73,7 @@
             </el-table-column>
             <el-table-column label="索引" v-if="contents.tableIndex" type="index" width="50" />
             	                                    	                	                                    <el-table-column  :sortable="contents.tableSortable" :align="contents.tableAlign"
-                    prop="gyq_address"
+                    prop="address"
                     header-align="center"
 		    label="地址">
 		     <template slot-scope="scope">

@@ -17,7 +17,7 @@ import java.io.Serializable;
  * @email 
  * @date 2021-03-20 16:03:02
  */
-@TableName("gyq_cart")
+@TableName("cart")
 public class CartView  extends CartEntity implements Serializable {
 	private static final long serialVersionUID = 1L;
 

@@ -85,7 +85,7 @@ public class AddressController {
     @RequestMapping("/lists")
     public R list( AddressEntity address){
        	EntityWrapper<AddressEntity> ew = new EntityWrapper<AddressEntity>();
-      	ew.allEq(MPUtil.allEQMapPre( address, "gyq_address")); 
+      	ew.allEq(MPUtil.allEQMapPre( address, "address")); 
         return R.ok().put("data", addressService.selectListView(ew));
     }
 
@@ -95,7 +95,7 @@ public class AddressController {
     @RequestMapping("/query")
     public R query(AddressEntity address){
         EntityWrapper< AddressEntity> ew = new EntityWrapper< AddressEntity>();
- 		ew.allEq(MPUtil.allEQMapPre( address, "gyq_address")); 
+ 		ew.allEq(MPUtil.allEQMapPre( address, "address")); 
 		AddressView addressView =  addressService.selectView(ew);
 		return R.ok("查询地址成功").put("data", addressView);
     }

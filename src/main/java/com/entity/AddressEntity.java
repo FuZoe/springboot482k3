@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.enums.IdType;
  * @email 
  * @date 2021-03-20 16:03:02
  */
-@TableName("gyq_address")
+@TableName("address")
 public class AddressEntity<T> implements Serializable {
 	private static final long serialVersionUID = 1L;
 

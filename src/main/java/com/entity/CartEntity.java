@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.enums.IdType;
  * @email 
  * @date 2021-03-20 16:03:02
  */
-@TableName("gyq_cart")
+@TableName("cart")
 public class CartEntity<T> implements Serializable {
 	private static final long serialVersionUID = 1L;
 

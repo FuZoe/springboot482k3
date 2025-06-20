@@ -164,7 +164,7 @@
                      </template>
                 </el-table-column>
                 	                	                                    <el-table-column  :sortable="contents.tableSortable" :align="contents.tableAlign"
-                    prop="gyq_address"
+                    prop="address"
                     header-align="center"
 		    label="地址">
 		     <template slot-scope="scope">
