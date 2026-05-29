@@ -2,7 +2,7 @@
   <div>
     <div class="container">
       <div class="login-form" style="backgroundColor:rgba(255, 215, 0, 0.02);borderRadius:20px">
-        <h1 class="h1" style="color:rgba(255, 69, 0, 1);fontSize:30px;">网上购物商城系统注册</h1>
+        <h1 class="h1" style="color:rgba(255, 69, 0, 1);fontSize:30px;">基于Spring Boot的浏阳特产电子商务平台注册</h1>
 		<el-form ref="rgsForm" class="rgs-form" :model="rgsForm" label-width="120px">
 															<!-- <div v-if="tableName=='shangjia'" class="input-group">
 			   <div class="label">账号</div>

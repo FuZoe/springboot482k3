@@ -4,7 +4,7 @@
 
       <div :class="2 == 1 ? 'left' : 2 == 2 ? 'left center' : 'left right'" style="backgroundColor: rgba(141, 238, 141, 0.05)">
         <el-form class="login-form" label-position="left" :label-width="1 == 3 ? '56px' : '0px'">
-          <div class="title-container"><h3 class="title" style="color: rgba(255, 140, 0, 1)">网上购物商城系统登录</h3></div>
+          <div class="title-container"><h3 class="title" style="color: rgba(255, 140, 0, 1)">基于Spring Boot的浏阳特产电子商务平台登录</h3></div>
           <el-form-item :label="1 == 3 ? '用户名' : ''" :class="'style'+1">
             <span v-if="1 != 3" class="svg-container" style="color:rgba(255, 255, 255, 1);line-height:44px"><svg-icon icon-class="user" /></span>
             <el-input placeholder="请输入用户名" name="username" type="text" v-model="rulesForm.username" />
