@@ -9,7 +9,7 @@ const base = {
             },
     getProjectName(){
         return {
-            projectName: "网上购物商城系统"
+            projectName: "基于Spring Boot的浏阳特产电子商务平台"
         } 
     }
 }

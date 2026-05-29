@@ -1,4 +1,4 @@
-var projectName = "网上购物商城系统";
+var projectName = "基于Spring Boot的浏阳特产电子商务平台";
 /**
  * 轮播图配置
  */
