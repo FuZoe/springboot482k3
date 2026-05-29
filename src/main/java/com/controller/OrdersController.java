@@ -147,7 +147,9 @@ public class OrdersController {
         orders.setId(new Date().getTime() + new Double(Math.floor(Math.random() * 1000)).longValue());
         //ValidatorUtils.validateEntity(orders);
         ShangpinxinxiEntity shangpinxinxiEntity = shangpinxinxiService.selectById(orders.getGoodid());
-        orders.setZhanghao(shangpinxinxiEntity.getZhanghao());
+        if(shangpinxinxiEntity != null) {
+            orders.setZhanghao(shangpinxinxiEntity.getZhanghao());
+        }
         ordersService.insert(orders);
         return R.ok();
     }
