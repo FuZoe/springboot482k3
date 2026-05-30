@@ -78,4 +78,11 @@ http://localhost:8080/springboot482k3/front/index.html
 
 9、订单管理：用户支付订单，退款，收货。商家发货。
 
+### 启动命令
+#### windows
+```powershell
+powershell -NoProfile -Command "try { iwr -UseBasicParsing -TimeoutSec 3 http://localhost:8080/springboot482k3/ -EA SilentlyContinue | Out-Null; Write-Output 'UP' } catch { Write-Output 'DOWN' }"
+mvn spring-boot:run
+```
+
 
